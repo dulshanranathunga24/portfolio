@@ -163,7 +163,7 @@ export const portfolioData = {
         "REST APIs",
       ],
       metrics: "4 Microservices | Automated CI/CD",
-      githubUrl: "https://github.com/dulshanranathunga24",
+      githubUrl: "https://github.com/disanayakaKG/ridelink-microservices/tree/feature/ride-management-service",
       liveUrl: "https://dulshanranathunga.vercel.app",
     },
     {
@@ -190,7 +190,7 @@ export const portfolioData = {
         "Order Workflows",
       ],
       metrics: "End-to-End Cart & Order Workflows",
-      githubUrl: "https://github.com/dulshanranathunga24",
+      githubUrl: "https://github.com/KalanaKumuditha/QuickCart-Fashion-Store/tree/IT24102079",
       liveUrl: "https://dulshanranathunga.vercel.app",
     },
     {
@@ -215,7 +215,7 @@ export const portfolioData = {
         "Clean Code",
       ],
       metrics: "Dynamic Allocation & Dynamic Fare Engine",
-      githubUrl: "https://github.com/dulshanranathunga24",
+      githubUrl: "https://github.com/IT24103806/PGNO_23_Taxi-and-Cab-Service-Booking-Platform/tree/IT24102079-review-management",
       liveUrl: "https://dulshanranathunga.vercel.app",
     },
     {
