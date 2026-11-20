@@ -78,7 +78,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center gap-3">
             <a
               href={portfolioData.personal.cvDownloadUrl}
-              download="Dulshan_Ranathunga_CV.jpg"
+              download="Dulshan_Ranathunga_CV.pdf"
               className="inline-flex items-center gap-2 px-4 py-2 text-sm font-semibold text-slate-900 bg-gradient-to-r from-cyan-400 to-sky-400 hover:from-cyan-300 hover:to-sky-300 rounded-lg shadow-md shadow-cyan-500/20 hover:shadow-cyan-500/30 transition-all hover:scale-[1.02] active:scale-[0.98]"
             >
               <DownloadIcon className="w-4 h-4" />
@@ -114,7 +114,7 @@ export default function Navbar() {
             <div className="pt-2 border-t border-slate-800/80 mt-1 flex flex-col gap-2">
               <a
                 href={portfolioData.personal.cvDownloadUrl}
-                download="Dulshan_Ranathunga_CV.jpg"
+                download="Dulshan_Ranathunga_CV.pdf"
                 onClick={() => setIsOpen(false)}
                 className="flex items-center justify-center gap-2 w-full py-2.5 text-sm font-semibold text-slate-900 bg-gradient-to-r from-cyan-400 to-sky-400 rounded-xl shadow-md"
               >

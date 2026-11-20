@@ -45,7 +45,7 @@ export const portfolioData = {
     linkedinUsername: "dulshan-ranathunga",
     portfolioUrl: "https://dulshanranathunga.vercel.app",
     avatarUrl: "/avatar.jpg",
-    cvDownloadUrl: "/dulshan-cv.jpg",
+    cvDownloadUrl: "/dulshan-cv.pdf",
     availability: "Available for Software Engineering Internships",
   },
 

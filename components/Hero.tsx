@@ -94,7 +94,7 @@ export default function Hero() {
 
               <a
                 href={portfolioData.personal.cvDownloadUrl}
-                download="Dulshan_Ranathunga_CV.jpg"
+                download="Dulshan_Ranathunga_CV.pdf"
                 className="inline-flex items-center justify-center gap-2 px-5 py-3.5 text-sm sm:text-base font-semibold text-slate-300 hover:text-cyan-300 bg-slate-900/50 hover:bg-slate-800/80 border border-slate-800 rounded-xl transition-all"
                 title="Download Dulshan's CV"
               >
