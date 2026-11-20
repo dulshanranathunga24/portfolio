@@ -167,7 +167,7 @@ export default function Contact() {
                   className="flex items-center justify-center gap-2 w-full py-4 px-6 rounded-2xl text-sm sm:text-base font-semibold text-slate-950 bg-gradient-to-r from-cyan-400 via-sky-400 to-blue-400 hover:from-cyan-300 hover:to-blue-300 shadow-lg shadow-cyan-500/25 transition-all hover:scale-[1.01]"
                 >
                   <DownloadIcon className="w-5 h-5" />
-                  <span>Download Full CV / Resume</span>
+                  <span>Download CV</span>
                 </a>
               </div>
             </div>

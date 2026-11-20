@@ -99,7 +99,7 @@ export default function Hero() {
                 title="Download Dulshan's CV"
               >
                 <DownloadIcon className="w-4 h-4 text-sky-400" />
-                <span>Resume / CV</span>
+                <span>Download CV</span>
               </a>
             </div>
 
